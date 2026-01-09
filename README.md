@@ -1,149 +1,116 @@
-# 🌐 Indresh Harshan – Personal Portfolio Website
+🧑‍💻 Portfolio — Indresh Harshan J P
 
-A professional and responsive personal portfolio website built to showcase my skills, projects, achievements, and experience in Artificial Intelligence, Machine Learning, and Web Development.
+Personal portfolio website to showcase skills, projects, contact info & resume
 
-🔗 **Live Website:** https://portfolioindresh.vercel.app
+📍 Live Demo
 
----
+🔗 https://portfolioindresh.vercel.app
 
-## 📖 Project Description
+🚀 About the Project
 
-This portfolio website acts as a digital resume and personal branding platform.  
-It highlights my technical expertise, academic background, real-world projects, and achievements while providing a functional contact form for direct communication.
+This is my personal portfolio website built using modern web technologies to showcase:
 
-The project is developed using modern frontend technologies with a strong focus on performance, responsiveness, and clean UI/UX design.
+About Me
 
----
+Skills
 
-## 🎯 Objectives of the Project
+Projects
 
-- To build a professional personal portfolio website
-- To showcase projects, skills, and achievements effectively
-- To create a responsive and visually appealing UI
-- To integrate a working contact form without backend complexity
-- To deploy a fast and scalable frontend application
+Contact details
 
----
+Resume download
 
-## 🧠 Technology Stack
+It’s fully responsive and optimized for web performance and experience.
 
-### Frontend
-- React.js
-- Vite
-- JavaScript (ES6+)
-- Tailwind CSS
-- Framer Motion
-- React Hook Form
+📌 Features
 
-### Email Service
-- EmailJS
+✔ Clean UI/UX design
+✔ Mobile and desktop responsive
+✔ Smooth scroll animations
+✔ Links to projects and social profiles
+✔ Resume/CV available to download
 
-### Deployment
-- Vercel
+🛠️ Technologies Used
 
----
+Next.js – React framework for production
 
-## ✨ Key Features
+React – UI library
 
-- Fully responsive design (mobile, tablet, desktop)
-- Clean and modern UI
-- Smooth animations and transitions
-- Dark mode support
-- Projects and achievements showcase
-- Functional contact form using EmailJS
-- Optimized performance and fast loading
+Tailwind CSS – Utility-first CSS
 
----
+Vercel – Deployment platform
 
-## 🗂️ Project Structure
+(Optional) Framer Motion – Animations
 
-```text
+(Optional) TypeScript – If project is typed
+
+(Note: edit if your project uses additional tools)
+
+📁 Folder Structure
 portfolio/
-│
-├── public/
-│   └── images/
-│
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   ├── utils/
-│   ├── App.jsx
-│   └── main.jsx
-│
-├── .env
-├── .gitignore
-├── index.html
-├── package.json
-└── README.md
-⚙️ Environment Variables Setup
+├─ app/                 # Next.js App Router pages
+├─ components/          # Reusable UI components
+├─ public/              # Static images/assets
+├─ styles/              # Tailwind setup + global CSS
+├─ package.json
+├─ tailwind.config.js
+├─ next.config.js
+├─ README.md
 
-Create a .env file in the root directory and add:
+🧠 How to Run Locally
 
-VITE_EMAILJS_SERVICE_ID=your_service_id
-VITE_EMAILJS_TEMPLATE_ID=your_template_id
-VITE_EMAILJS_PUBLIC_KEY=your_public_key
+Clone the repo
+
+git clone https://github.com/<your-username>/<repo-name>.git
 
 
-Add the same values in Vercel → Project Settings → Environment Variables during deployment.
+Go to project folder
 
-🚀 Installation & Local Setup
-git clone https://github.com/indreshharshan/your-portfolio-repo.git
-cd your-portfolio-repo
+cd portfolio
+
+
+Install dependencies
+
 npm install
+
+
+Run dev server
+
 npm run dev
 
-🔄 System Workflow
 
-User visits the portfolio website
+Open in browser
 
-React frontend loads content and animations
+http://localhost:3000
 
-User submits the contact form
+📦 Build for Production
+npm run build
+npm start
 
-EmailJS sends the message to the registered email
+📌 Deployment
 
-Message is received instantly
+This site is deployed on Vercel. Just push to GitHub and connect the repo to Vercel. No additional config needed.
 
-🔐 Security & Best Practices
+🧰 Contact
 
-Environment variables protected using .env
+📩 Email: your email here
+🔗 LinkedIn: your LinkedIn here
+🔗 GitHub: your GitHub here
 
-No sensitive keys pushed to GitHub
+📜 License
 
-EmailJS public key used securely
+This project is open source and available under the MIT License.
 
-Deployed on Vercel infrastructure
+📝 Optional Additions (if used in your site)
+✨ Dark Mode Toggle
 
-🌐 Deployment
+If you have a theme toggle feature:
 
-The application is deployed using Vercel.
+Features: Light/Dark mode switch using React state + localStorage
 
-Steps:
 
-Push code to GitHub
 
-Import repository into Vercel
 
-Add environment variables
+🎯 Conclusion
 
-Deploy
-
-👨‍💻 Author
-
-Indresh Harshan
-
-🌐 Portfolio: https://portfolioindresh.vercel.app
-
-🐙 GitHub: https://github.com/indreshharshan
-
-📧 Email: indreshharshan26@gmail.com
-
-📄 License
-
-This project is licensed under the MIT License.
-
-🌟 Conclusion
-
-This portfolio website reflects my technical skills, creativity, and professionalism.
-It is built using industry-standard tools and best practices, making it suitable for showcasing my profile to recruiters and collaborators.
+This portfolio website effectively showcases my skills, projects, and experience using modern web technologies. It reflects my learning journey, technical abilities, and serves as a professional platform for future opportunities.
