@@ -1,0 +1,28 @@
+
+> test@0.0.0 build
+> vite build
+
+[36mvite v7.2.4 [32mbuilding client environment for production...[36m[39m
+transforming...
+[32m✓[39m 448 modules transformed.
+[31m✗[39m Build failed in 1.46s
+[31merror during build:
+[31msrc/utils/constants.js (2:95): "SiN8n" is not exported by "node_modules/react-icons/si/index.mjs", imported by "src/utils/constants.js".[31m
+file: [36mC:/Users/ASUS/PYTHON/test/src/utils/constants.js:2:95[31m
+[33m
+1: import { FaPython, FaReact, FaDatabase, FaCloud, FaRobot, FaChartLine, FaBrain, FaCode } from 'react-icons/fa';
+2: import { SiTensorflow, SiOpencv, SiFlask, SiPandas, SiNumpy, SiMysql, SiGooglecloud, SiGithub, SiN8n, SiTableau, SiPo...
+                                                                                                  ^
+3: 
+4: export const NAV_LINKS = [
+[31m
+    at getRollupError (file:///C:/Users/ASUS/PYTHON/test/node_modules/rollup/dist/es/shared/parseAst.js:401:41)
+    at error (file:///C:/Users/ASUS/PYTHON/test/node_modules/rollup/dist/es/shared/parseAst.js:397:42)
+    at Module.error (file:///C:/Users/ASUS/PYTHON/test/node_modules/rollup/dist/es/shared/node-entry.js:16956:16)
+    at Module.traceVariable (file:///C:/Users/ASUS/PYTHON/test/node_modules/rollup/dist/es/shared/node-entry.js:17412:29)
+    at ModuleScope.findVariable (file:///C:/Users/ASUS/PYTHON/test/node_modules/rollup/dist/es/shared/node-entry.js:15076:39)
+    at Identifier.bind (file:///C:/Users/ASUS/PYTHON/test/node_modules/rollup/dist/es/shared/node-entry.js:5423:40)
+    at Property.bind (file:///C:/Users/ASUS/PYTHON/test/node_modules/rollup/dist/es/shared/node-entry.js:2813:23)
+    at ObjectExpression.bind (file:///C:/Users/ASUS/PYTHON/test/node_modules/rollup/dist/es/shared/node-entry.js:2809:28)
+    at ArrayExpression.bind (file:///C:/Users/ASUS/PYTHON/test/node_modules/rollup/dist/es/shared/node-entry.js:2809:28)
+    at Property.bind (file:///C:/Users/ASUS/PYTHON/test/node_modules/rollup/dist/es/shared/node-entry.js:2813:23)[39m
