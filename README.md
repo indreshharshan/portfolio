@@ -1,116 +1,103 @@
-🧑‍💻 Portfolio — Indresh Harshan J P
+# 🌐 Indresh Harshan – Personal Portfolio Website
 
-Personal portfolio website to showcase skills, projects, contact info & resume
+A professional and responsive personal portfolio website built to showcase my skills, projects, achievements, and experience in Artificial Intelligence, Machine Learning, and Web Development.
 
-📍 Live Demo
+Live Website: https://portfolioindresh.vercel.app
 
-🔗 https://portfolioindresh.vercel.app
+--------------------------------------------------
 
-🚀 About the Project
+📂 Project Structure
 
-This is my personal portfolio website built using modern web technologies to showcase:
-
-About Me
-
-Skills
-
-Projects
-
-Contact details
-
-Resume download
-
-It’s fully responsive and optimized for web performance and experience.
-
-📌 Features
-
-✔ Clean UI/UX design
-✔ Mobile and desktop responsive
-✔ Smooth scroll animations
-✔ Links to projects and social profiles
-✔ Resume/CV available to download
-
-🛠️ Technologies Used
-
-Next.js – React framework for production
-
-React – UI library
-
-Tailwind CSS – Utility-first CSS
-
-Vercel – Deployment platform
-
-(Optional) Framer Motion – Animations
-
-(Optional) TypeScript – If project is typed
-
-(Note: edit if your project uses additional tools)
-
-📁 Folder Structure
 portfolio/
-├─ app/                 # Next.js App Router pages
-├─ components/          # Reusable UI components
-├─ public/              # Static images/assets
-├─ styles/              # Tailwind setup + global CSS
-├─ package.json
-├─ tailwind.config.js
-├─ next.config.js
-├─ README.md
+│
+├── public/
+│   └── images/
+│
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   ├── utils/
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── .env
+├── .gitignore
+├── index.html
+├── package.json
+└── README.md
 
-🧠 How to Run Locally
+--------------------------------------------------
 
-Clone the repo
+⚙️ Environment Variables Setup
 
-git clone https://github.com/<your-username>/<repo-name>.git
+Create a .env file in the root directory and add:
 
+VITE_EMAILJS_SERVICE_ID=your_service_id  
+VITE_EMAILJS_TEMPLATE_ID=your_template_id  
+VITE_EMAILJS_PUBLIC_KEY=your_public_key  
 
-Go to project folder
+Add the same values in:
+Vercel → Project Settings → Environment Variables
 
-cd portfolio
+--------------------------------------------------
 
+🚀 Installation & Local Setup
 
-Install dependencies
+git clone https://github.com/indreshharshan/your-portfolio-repo.git  
+cd your-portfolio-repo  
+npm install  
+npm run dev  
 
-npm install
+--------------------------------------------------
 
+🔄 System Workflow
 
-Run dev server
+1. User visits the portfolio website  
+2. React frontend loads content and animations  
+3. User submits the contact form  
+4. EmailJS sends the message to the registered email  
+5. Message is received instantly  
 
-npm run dev
+--------------------------------------------------
 
+🔐 Security & Best Practices
 
-Open in browser
+- Environment variables protected using .env  
+- No sensitive keys pushed to GitHub  
+- EmailJS public key used securely  
+- Deployed on Vercel infrastructure  
 
-http://localhost:3000
+--------------------------------------------------
 
-📦 Build for Production
-npm run build
-npm start
+🌐 Deployment
 
-📌 Deployment
+The application is deployed using Vercel.
 
-This site is deployed on Vercel. Just push to GitHub and connect the repo to Vercel. No additional config needed.
+Steps:
+1. Push code to GitHub  
+2. Import repository into Vercel  
+3. Add environment variables  
+4. Deploy  
 
-🧰 Contact
+--------------------------------------------------
 
-📩 Email: your email here
-🔗 LinkedIn: your LinkedIn here
-🔗 GitHub: your GitHub here
+👨‍💻 Author
 
-📜 License
+Indresh Harshan  
+Portfolio: https://portfolioindresh.vercel.app  
+GitHub: https://github.com/indreshharshan  
+Email: indreshharshan26@gmail.com  
 
-This project is open source and available under the MIT License.
+--------------------------------------------------
 
-📝 Optional Additions (if used in your site)
-✨ Dark Mode Toggle
+📄 License
 
-If you have a theme toggle feature:
+This project is licensed under the MIT License.
 
-Features: Light/Dark mode switch using React state + localStorage
+--------------------------------------------------
 
+🌟 Conclusion
 
-
-
-🎯 Conclusion
-
-This portfolio website effectively showcases my skills, projects, and experience using modern web technologies. It reflects my learning journey, technical abilities, and serves as a professional platform for future opportunities.
+This portfolio website reflects my technical skills, creativity, and professionalism.
+It is built using industry-standard tools and best practices, making it suitable for showcasing my profile to recruiters and collaborators.
