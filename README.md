@@ -18,18 +18,6 @@
 <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode"/>
 </p>
 
-## 🚀 Portfolio
-
-🌐 **Live Website:**
-https://indreshdev.vercel.app
-
-## 📊 GitHub
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=indreshharshan&show_icons=true&hide_border=true&theme=transparent" height="160"/>
-<img src="https://streak-stats.demolab.com/?user=indreshharshan&hide_border=true&theme=transparent" height="160"/>
-</p>
-
 ## 🔗 Connect With Me
 
 <p align="center">
