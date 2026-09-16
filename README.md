@@ -1,16 +1,8 @@
-<div align="center">
+<img width="1119" height="598" alt="image" src="https://github.com/user-attachments/assets/c525a69f-6d36-4be8-968b-fa50c963e3a0" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Indresh%20Harshan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Developer;Web+Developer;Building+Modern+Web+Experiences" alt="Typing Animation"/>
-
-</div>
 
 ## 👨‍💻 About Me
-
-Computer Science Engineering student passionate about **Java, Web Development, and building real-world projects**.
-
-I enjoy turning ideas into clean, interactive and useful web applications. 🚀
+ Full Stack Developer specializing in the MERN Stack with practical experience in designing and developing scalable, responsive, and user-centric web applications using JavaScript, React.js, Node.js, Express.js, and MongoDB.
 
 ## ✨ Features
 
