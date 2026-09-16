@@ -2,16 +2,15 @@
 
 
 ## 👨‍💻 About Me
- Full Stack Developer specializing in the MERN Stack with practical experience in designing and developing scalable, responsive, and user-centric web applications using JavaScript, React.js, Node.js, Express.js, and MongoDB.
+🎓  CSE Student @ Excel Engineering College, Salem, TN (2023 – 2027)
 
-## ✨ Features
+💻  Full Stack Developer specializing in the MERN Stack with practical experience in designing and developing scalable, responsive, and user-centric web applications using JavaScript, React.js, Node.js, Express.js, and MongoDB.
 
-* 🎨 Modern & clean UI
-* ✨ Smooth animations
-* 📱 Fully responsive
-* 🚀 Interactive project showcase
-* 💼 Experience & certifications
-* 📩 Contact section
+⚙️  Proficient in building end-to-end solutions — from RESTful API development and database management to clean, maintainable frontend architecture — following clean coding practices and solid software design principles.
+
+🧩  Strong problem-solving skills, a passion for continuous learning, and a commitment to delivering high-quality software solutions that make a real impact.
+
+📍  Currently seeking full-time Software Engineer opportunities in Bengaluru · Chennai · Hyderabad to contribute technical expertise and grow within a dynamic development team.
 
 ## 🛠️ Tech Stack
 
@@ -22,15 +21,7 @@
 ## 🚀 Portfolio
 
 🌐 **Live Website:**
-https://indreshdev.vercel.app/
-
-## 📂 Projects
-
-* 🛍️ AI-Powered E-Commerce
-* 📈 Real-Time Stock Monitoring
-* 💇 Salon Booking Platform
-* 🧭 Gypsy Compass
-* 🤖 AI Resume Analyzer
+https://indreshdev.vercel.app
 
 ## 📊 GitHub
 
