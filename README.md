@@ -12,7 +12,7 @@
 
 📍  Currently seeking full-time Software Engineer opportunities in Bengaluru · Chennai · Hyderabad to contribute technical expertise and grow within a dynamic development team.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Skills
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode"/>
