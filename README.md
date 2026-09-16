@@ -1,16 +1,67 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Indresh%20Harshan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-Currently, two official plugins are available:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Developer;Web+Developer;Building+Modern+Web+Experiences" alt="Typing Animation"/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+</div>
 
-## React Compiler
+## 👨‍💻 About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Computer Science Engineering student passionate about **Java, Web Development, and building real-world projects**.
 
-## Expanding the ESLint configuration
+I enjoy turning ideas into clean, interactive and useful web applications. 🚀
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+* 🎨 Modern & clean UI
+* ✨ Smooth animations
+* 📱 Fully responsive
+* 🚀 Interactive project showcase
+* 💼 Experience & certifications
+* 📩 Contact section
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode"/>
+</p>
+
+## 🚀 Portfolio
+
+🌐 **Live Website:**
+https://indreshdev.vercel.app/
+
+## 📂 Projects
+
+* 🛍️ AI-Powered E-Commerce
+* 📈 Real-Time Stock Monitoring
+* 💇 Salon Booking Platform
+* 🧭 Gypsy Compass
+* 🤖 AI Resume Analyzer
+
+## 📊 GitHub
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=indreshharshan&show_icons=true&hide_border=true&theme=transparent" height="160"/>
+<img src="https://streak-stats.demolab.com/?user=indreshharshan&hide_border=true&theme=transparent" height="160"/>
+</p>
+
+## 🔗 Connect With Me
+
+<p align="center">
+<a href="https://github.com/indreshharshan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://indreshdev.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+<div align="center">
+
+### 🚀 Build • Learn • Improve
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer"/>
+
+</div>
