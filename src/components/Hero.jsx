@@ -72,7 +72,7 @@ const Hero = () => {
 
                             <div className="relative w-full h-full rounded-[2rem] overflow-hidden border-2 border-white/50 dark:border-slate-700/50 shadow-2xl rotate-3 hover:rotate-0 transition-all duration-500 group">
                                 <img
-                                    src="/assets/images/hero-portrait.jpg"
+                                    src="/assets/images/a2.png"
                                     alt="indresh"
                                     className="w-full h-full object-cover scale-110 group-hover:scale-100 transition-transform duration-700"
                                     onError={(e) => { e.target.src = 'https://placehold.co/500x500/1e293b/ffffff?text=Lalith' }}
